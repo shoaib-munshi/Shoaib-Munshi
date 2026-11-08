@@ -1,7 +1,9 @@
 
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
+
+
+  <img width="720" height="334" alt="Animated Developer Waving at Laptop" src="https://github.com/user-attachments/assets/02cc9fe4-5496-46fc-a9cd-28ce472d250e" />
+
 </div>
 <!--
 **shoaib-munshi/Shoaib-Munshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
