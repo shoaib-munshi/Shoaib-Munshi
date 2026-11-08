@@ -1,7 +1,6 @@
 <div align="center">
-  <video width="100%" autoplay loop playsinline controls>
-    <source src="https://github.com/user-attachments/assets/e464e3ba-df00-4d3e-af1c-51abc60debb1" type="video/mp4">
-  </video>
+<img width="800" height="356" alt="1" src="https://github.com/user-attachments/assets/d797adea-e056-4faf-8470-03c6eb31c30c" />
+
 </div>
 <!--
 **shoaib-munshi/Shoaib-Munshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
