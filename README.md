@@ -2,7 +2,12 @@
 <div align="center"> 
 
 
-<img width="800" height="267" alt="shoaib_munshi_smooth_non_pixelated" src="https://github.com/user-attachments/assets/7d1c2ad4-6ef5-42b6-a771-5b5d9d8173bb" />
+
+
+
+
+https://github.com/user-attachments/assets/6a3480ff-670f-4d3b-b6fb-d13728afad6a
+
 
 
 </div>
