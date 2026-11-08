@@ -4,9 +4,7 @@
 
 
 
-
-![Uploading 1.gif…]()
-
+<img width="800" height="356" alt="1" src="https://github.com/user-attachments/assets/ffc30462-9c02-462e-93b9-24b8d825ce1d" />
 
 
 </div>
