@@ -1,3 +1,4 @@
+<img width="720" height="334" alt="Animated Developer Waving at Laptop" src="https://github.com/user-attachments/assets/a5f1a69c-5573-4990-a8b2-ad1c9bc276d9" />
 ## Hi there 👋
 
 <!--
