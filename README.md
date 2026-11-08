@@ -1,11 +1,6 @@
 <div align="center">
-  <video
-    width="100%"
-    autoplay
-    loop
-    playsinline
-    controls>
-    <source src="https://github.com/user-attachments/assets/b6439704-1342-41b7-bf5e-4e67d11f6ee0" type="video/mp4">
+  <video width="100%" autoplay loop playsinline controls>
+    <source src="https://github.com/user-attachments/assets/e464e3ba-df00-4d3e-af1c-51abc60debb1" type="video/mp4">
   </video>
 </div>
 <!--
