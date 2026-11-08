@@ -2,7 +2,8 @@
 <div align="center"> 
 
 
-<img width="1600" height="1200" alt="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" src="https://github.com/user-attachments/assets/5cc0244e-038f-483c-bb97-ef992ac63e94" />
+<img width="960" height="300" alt="hello_shoaib_munshi_animated_github_banner" src="https://github.com/user-attachments/assets/f7313060-83cd-481e-bcf1-ae4dd95c88b5"/>
+
 
 </div>
 
