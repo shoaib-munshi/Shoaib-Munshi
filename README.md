@@ -1,8 +1,7 @@
 
 <div align="center"> 
 
-
-  <img width="720" height="334" alt="Animated Developer Waving at Laptop" src="https://github.com/user-attachments/assets/02cc9fe4-5496-46fc-a9cd-28ce472d250e" />
+<img width="960" height="300" alt="hello_shoaib_munshi_animated_github_banner" src="https://github.com/user-attachments/assets/bd27409c-f7b0-4be5-92d9-3da48c37de88" />
 
 </div>
 <!--
