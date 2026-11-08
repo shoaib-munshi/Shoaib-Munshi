@@ -1,14 +1,13 @@
-
-<div align="center"> 
-
-
-
-
-<img width="800" height="356" alt="1" src="https://github.com/user-attachments/assets/ffc30462-9c02-462e-93b9-24b8d825ce1d" />
-
-
+<div align="center">
+  <video
+    width="100%"
+    autoplay
+    loop
+    playsinline
+    controls>
+    <source src="https://github.com/user-attachments/assets/b6439704-1342-41b7-bf5e-4e67d11f6ee0" type="video/mp4">
+  </video>
 </div>
-
 <!--
 **shoaib-munshi/Shoaib-Munshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
