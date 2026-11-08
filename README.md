@@ -1,5 +1,6 @@
 <img width="720" height="334" alt="Animated Developer Waving at Laptop" src="https://github.com/user-attachments/assets/a5f1a69c-5573-4990-a8b2-ad1c9bc276d9" />
-## Hi there 👋
+![Uploading 240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif…]()
+
 
 <!--
 **shoaib-munshi/Shoaib-Munshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
