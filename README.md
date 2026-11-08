@@ -1,9 +1,11 @@
 
 <div align="center"> 
 
-<img width="960" height="300" alt="hello_shoaib_munshi_animated_github_banner" src="https://github.com/user-attachments/assets/bd27409c-f7b0-4be5-92d9-3da48c37de88" />
+
+<img width="1600" height="1200" alt="240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e" src="https://github.com/user-attachments/assets/5cc0244e-038f-483c-bb97-ef992ac63e94" />
 
 </div>
+
 <!--
 **shoaib-munshi/Shoaib-Munshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
