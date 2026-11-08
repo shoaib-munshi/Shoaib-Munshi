@@ -2,7 +2,7 @@
 <div align="center"> 
 
 
-<img width="800" height="267" alt="shoaib_munshi_typing_static_background" src="https://github.com/user-attachments/assets/360462cf-38c2-4e33-b0b0-1ece51b56774" />
+<img width="800" height="267" alt="shoaib_munshi_smooth_non_pixelated" src="https://github.com/user-attachments/assets/7d1c2ad4-6ef5-42b6-a771-5b5d9d8173bb" />
 
 
 </div>
